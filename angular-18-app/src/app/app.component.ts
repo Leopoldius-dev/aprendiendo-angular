@@ -10,5 +10,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'angular-18-app';
+  //Propiedad de la clase
+  city = 'Madrid';
 }
